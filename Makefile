@@ -1,5 +1,5 @@
 EABI   = ../../../octane_etk-6.0.0.240/arm-toolchain/bin/arm-none-linux-gnueabi
-#CC 		 = $(EABI)-gcc
+#CC     = $(EABI)-gcc
 CC     = gcc
 FLAGS  = -g -Wall
 OBJDIR = objs
